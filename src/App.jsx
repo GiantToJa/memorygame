@@ -9,6 +9,7 @@ const cardImages = [
   { src: "https://media.istockphoto.com/id/1275135250/photo/big-square-italian-food-pizza-with-melted-mozzarella-cheese-and-tomatoes.jpg?s=612x612&w=0&k=20&c=rYvcnvqVMlUOq3qwAEvJsCvQZqoEIp1LezNssza0i0A=", matched: false },
   { src: "https://di-uploads-pod20.dealerinspire.com/pacificbmw/uploads/2022/04/x7-square.jpg", matched: false },
 ];
+//comment for shiiii
 
 // 🌍 Translations
 const translations = {
