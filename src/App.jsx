@@ -98,7 +98,7 @@ function App() {
     <div className="App">
       {/* 🌐 Language + Back */}
       <div className="top-bar">
-        <a href="#" className="back-btn">
+        <a href="https://3ryk-prog.github.io/3ryk-ProgP" className="back-btn">
           {translations[language].back}
         </a>
         <select
